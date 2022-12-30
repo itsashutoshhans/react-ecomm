@@ -14,7 +14,9 @@ https://github.com/ZhangMYihua/crwn-clothing-v2/blob/lesson-1/src/App.js
 
 ### Adding Sass
 `yarn add sass`  
-create-react-app by default supports sass
+create-react-app by default supports sass (might ask to upgrade node)
+
+### Refactoring and creating separate components
 
 
 
